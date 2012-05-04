@@ -1,0 +1,16 @@
+D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\mouseclick.xnb
+D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bullet.xnb
+D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\gameFont.xnb
+D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\tank.xnb
+D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\garfield.xnb
+D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Drachma_(Busy).cur
+D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\KillGarfieldForFun.exe.manifest
+D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\KillGarfieldForFun.application
+D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\KillGarfieldForFun.exe
+D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\KillGarfieldForFun.pdb
+D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\KillGarfieldForFun.exe.manifest
+D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\KillGarfieldForFun.application
+D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\KillGarfieldForFun.exe
+D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\KillGarfieldForFun.pdb

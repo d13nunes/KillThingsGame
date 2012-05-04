@@ -1,0 +1,5 @@
+D:\My XNA Games\WindowsGame2\ScoreSaver\bin\Release\ScoreSaver.dll
+D:\My XNA Games\WindowsGame2\ScoreSaver\bin\Release\ScoreSaver.pdb
+D:\My XNA Games\WindowsGame2\ScoreSaver\obj\Release\ResolveAssemblyReference.cache
+D:\My XNA Games\WindowsGame2\ScoreSaver\obj\Release\ScoreSaver.dll
+D:\My XNA Games\WindowsGame2\ScoreSaver\obj\Release\ScoreSaver.pdb

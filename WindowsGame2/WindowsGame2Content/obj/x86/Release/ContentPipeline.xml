@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprite-0002.png</Source>
+      <Name>mouseclick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\mouseclick.xnb</Output>
+      <Time>2011-12-15T23:26:01.291661+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bullet.png</Source>
+      <Name>bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\bullet.xnb</Output>
+      <Time>2011-12-16T03:01:02.0135401+00:00</Time>
+    </Item>
+    <Item>
+      <Source>tank.png</Source>
+      <Name>tank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\tank.xnb</Output>
+      <Time>2011-12-16T23:43:57.2288132+00:00</Time>
+    </Item>
+    <Item>
+      <Source>5531_render_garfield.png</Source>
+      <Name>garfield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\garfield.xnb</Output>
+      <Time>2011-12-16T16:09:45.9893167+00:00</Time>
+    </Item>
+    <Item>
+      <Source>gameFont.spritefont</Source>
+      <Name>gameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\gameFont.xnb</Output>
+      <Time>2011-12-16T02:38:57.4477793+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2Content\</RootDirectory>
+      <LoggerRootDirectory>D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\My XNA Games\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-11-27T21:20:34.2496443+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
